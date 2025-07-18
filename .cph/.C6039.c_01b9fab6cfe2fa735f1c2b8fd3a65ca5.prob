@@ -1,0 +1,1 @@
+{"name":"Local: C6039","url":"d:\\code\\Code_C_PTIT\\C6039.c","tests":[{"id":1752184275912,"input":"3\n\naa\n\naa\n\nab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Code_C_PTIT\\C6039.c","group":"local","local":true}

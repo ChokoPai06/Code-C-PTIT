@@ -1,0 +1,1 @@
+{"name":"Local: C06033","url":"d:\\code\\Code_C_PTIT\\C06033.c","tests":[{"id":1752198690240,"input":"4\nAHAH\nHAHA\nHHAAAAHH\n3\nCDE\nCDE\nEEDDCC\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Code_C_PTIT\\C06033.c","group":"local","local":true}

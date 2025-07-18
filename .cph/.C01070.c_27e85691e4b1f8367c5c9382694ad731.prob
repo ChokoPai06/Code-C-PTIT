@@ -1,0 +1,1 @@
+{"name":"Local: C01070","url":"d:\\code\\Code C PTIT\\C01070.c","tests":[{"id":1746549883098,"input":"8 2\n\n1 6\n\n7 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Code C PTIT\\C01070.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sol","url":"d:\\code\\Code_C_PTIT\\sol.c","tests":[{"id":1752707235430,"input":"1\n8\n143 43 22 99 7 9 1111 10000000","output":"10000000 22 1111 7 43 143 9 99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Code_C_PTIT\\sol.c","group":"local","local":true}

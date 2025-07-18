@@ -1,0 +1,1 @@
+{"name":"Local: gcd","url":"d:\\code\\Code_C_PTIT\\gcd.c","tests":[{"id":1752762778777,"input":"5 \n7\n9 \n10 \n13 \n100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Code_C_PTIT\\gcd.c","group":"local","local":true}

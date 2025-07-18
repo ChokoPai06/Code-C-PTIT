@@ -1,0 +1,1 @@
+{"name":"Local: mt","url":"d:\\code\\Code_C_PTIT\\mt.c","tests":[{"id":1752752361467,"input":"249361","output":""},{"id":1752752463258,"input":"3763","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Code_C_PTIT\\mt.c","group":"local","local":true}
